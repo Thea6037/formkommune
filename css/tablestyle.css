@@ -1,0 +1,18 @@
+table { margin-left: 20%; margin-right: 20%; font-size: 20px; height: 100%; table-layout: fixed; }
+
+td { border: 1px solid black; text-align: center; padding: 10px; }
+
+tr:nth-child(even) { background-color: #F0F6FA; }
+
+tr:nth-child(odd) { background-color: #6B99C4; }
+
+h1 { color: tomato;
+    text-align: center;
+}
+
+.btn1 { background-color: #96B5D3}
+
+#pbGetKommuner
+{
+    background-color: #F0F6FA;
+}
